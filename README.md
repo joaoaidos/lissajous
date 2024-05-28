@@ -15,13 +15,13 @@ dependencies.
 
 To compile the program, simply run the provided `build.sh` script:
 
-```sh ./build.sh ```
+```$ ./build.sh ```
 
 ## Running the Program
 
 Once compiled, you can run the program with:
 
-```sh ./lissajous ```
+```$ ./lissajous ```
 
 ## Features
 
